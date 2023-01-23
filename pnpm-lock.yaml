@@ -1,0 +1,20 @@
+lockfileVersion: 5.3
+
+specifiers:
+  date-fns: 2.19.0
+  expresss: ^0.0.0
+
+dependencies:
+  date-fns: 2.19.0
+  expresss: 0.0.0
+
+packages:
+
+  /date-fns/2.19.0:
+    resolution: {integrity: sha512-X3bf2iTPgCAQp9wvjOQytnf5vO5rESYRXlPIVcgSbtT5OTScPcsf9eZU+B/YIkKAtYr5WeCii58BgATrNitlWg==}
+    engines: {node: '>=0.11'}
+    dev: false
+
+  /expresss/0.0.0:
+    resolution: {integrity: sha512-dnfKMF9CM+MRGXD58Ul3T+neY+5C9i4CaT5sEEOvIWxdueyk7TiFIzauAOFnxmMZAdio5uak7M3FDcr+B9A8xg==}
+    dev: false
